@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=baofreeman&repo=AISAAS-WEBSITE)](https://github.com/baofreeman/AISAAS-WEBSITE)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=baofreeman&repo=ECOMMERCER-WEBSITE)](https://github.com/baofreeman/ECOMMERCER-WEBSITE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=baofreeman&repo=AISAAS-WEBSITE&theme=radical)](https://github.com/baofreeman/AISAAS-WEBSITE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=baofreeman&repo=ECOMMERCER-WEBSITE&theme=radical)](https://github.com/baofreeman/ECOMMERCER-WEBSITE)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mhoang.smile) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hoang-trang-383138321/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/trang25523)
