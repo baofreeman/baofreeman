@@ -1,4 +1,4 @@
-##  Welcome to my home
+## :house: Welcome to my home
 ###### My name is Hoang, a web developer passionate about creating user-friendly websites and innovative digital experiences. I focus on delivering high-quality, scalable solutions for every project.
 
 
